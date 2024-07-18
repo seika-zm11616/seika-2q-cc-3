@@ -29,6 +29,3 @@ function abcde(){
   alert(3);
 }
 ```
-
-
-# seika-2q-cc-3
